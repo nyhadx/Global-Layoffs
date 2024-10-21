@@ -16,7 +16,7 @@
 
 ![Product Screenshot](https://moqod.com/static/img/layoffs-01.min.png)
 
-This project involves conducting an Exploratory Data Analysis (EDA) on a global layoffs dataset. The primary objectives of this analysis are to clean the data, remove duplicates, standardize formats, and identify key trends and patterns related to layoffs across various companies, industries, countries, and the time periods. 
+This project involves conducting an Exploratory Data Analysis (EDA) on a global layoffs dataset. The primary objectives of this analysis are to clean the data, remove duplicates, handle NULLs, standardize data formats, and identify key trends and patterns related to layoffs across various companies, industries, countries, and time periods. 
 
 Questions I'd like to explore:
 
@@ -30,7 +30,3 @@ Questions I'd like to explore:
 8. Top 5 Companies with Most Layoffs Every Year
 
 
-Steps:
-1. Data Cleaning: Remove duplicates, handle NULL values, standardize data formats, trim whitespaces and fix inconsistent data.
-
-2. Data Analysis: Write SQL queries to address each of the questions.
